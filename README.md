@@ -10,16 +10,16 @@
 
 2. Clone the repository
 
-    ``
+    ```
     git clone https://github.com/wilbeimer/NLP-LLM_Research_Project
 
    
     cd NLP-LLM_Research_Project
-    ``
+    ```
 
 4. Create a virtual environment (optional but recommended)
 
-    ``
+    ```
     python -m venv venv      # create a virtual environment called 'venv'
 
    
@@ -27,22 +27,22 @@
 
    
     venv\Scripts\activate    # Windows
-    ``
+    ```
 
 5. Install required packages
 
-    ``
+    ```
     pip install -r requirements.txt
 
    
     python -m spacy download en_core_web_lg
-    ``
+    ```
 
 6. Run Jupyter Notebook
 
-    ``
+    ```
     jupyter notebook
-    ``
+    ```
 
 
 7. Change Kernel
