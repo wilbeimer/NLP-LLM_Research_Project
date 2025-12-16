@@ -4,53 +4,48 @@
 
 1. Prerequisites
 
-    Python installed (recommend 3.13+, not sure if any others work I didn't test)
+    - Python installed (recommend 3.13+, not sure if any others work I didn't test)
 
-    pip (Python package manager)
+    - pip (Python package manager)
 
-    Optionally, install Anaconda
+    - Optionally, install Anaconda
 
 2. Clone the repository
 
-``
-git clone https://github.com/wilbeimer/NLP-LLM_Research_Project
-cd NLP-LLM_Research_Project
-``
+    ``
+    git clone https://github.com/wilbeimer/NLP-LLM_Research_Project
+    cd NLP-LLM_Research_Project
+    ``
 
 3. Create a virtual environment (optional but recommended)
 
-``
-python -m venv venv      # create a virtual environment called 'venv'
-source venv/bin/activate # Linux/Mac
-venv\Scripts\activate    # Windows
-``
-
-
-Keeps dependencies isolated.
+    ``
+    python -m venv venv      # create a virtual environment called 'venv'
+    source venv/bin/activate # Linux/Mac
+    venv\Scripts\activate    # Windows
+    ``
 
 4. Install required packages
 
-``
-pip install -r requirements.txt
-python -m spacy download en_core_web_lg
-``
+    ``
+    pip install -r requirements.txt
+    python -m spacy download en_core_web_lg
+    ``
 
 5. Run Jupyter Notebook
 
-``
-jupyter notebook
-``
+    ``
+    jupyter notebook
+    ``
 
 
 6. Optional: Run in Google Colab
 
-    You can tell people:
+    1. Go to Google Colab
 
-    Go to Google Colab
+    2. File → Open notebook → GitHub → paste your repo URL
 
-    File → Open notebook → GitHub → paste your repo URL
-
-    Open and run it in the cloud (no local setup needed)
+    3. Open and run it in the cloud (no local setup needed)
 
 
 ## Sources
