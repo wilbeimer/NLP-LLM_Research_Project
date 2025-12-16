@@ -39,7 +39,14 @@
     ``
 
 
-6. Optional: Run in Google Colab
+6. Change Kernel
+
+    If you are using a venv rather than the root python, jupyter requires you to select that kernel for the packages to work correctly
+
+    1. 
+
+
+8. Optional: Run in Google Colab
 
     1. Go to Google Colab
 
