@@ -5,53 +5,58 @@
 1. Prerequisites
 
     - Python installed (recommend 3.13+, not sure if any others work I didn't test)
-
     - pip (Python package manager)
-
     - Optionally, install Anaconda
 
 2. Clone the repository
 
     ``
     git clone https://github.com/wilbeimer/NLP-LLM_Research_Project
+
+   
     cd NLP-LLM_Research_Project
     ``
 
-3. Create a virtual environment (optional but recommended)
+4. Create a virtual environment (optional but recommended)
 
     ``
     python -m venv venv      # create a virtual environment called 'venv'
+
+   
     source venv/bin/activate # Linux/Mac
+
+   
     venv\Scripts\activate    # Windows
     ``
 
-4. Install required packages
+5. Install required packages
 
     ``
     pip install -r requirements.txt
+
+   
     python -m spacy download en_core_web_lg
     ``
 
-5. Run Jupyter Notebook
+6. Run Jupyter Notebook
 
     ``
     jupyter notebook
     ``
 
 
-6. Change Kernel
+7. Change Kernel
 
     If you are using a venv rather than the root python, jupyter requires you to select that kernel for the packages to work correctly
 
-    1. 
+   1. Click on "kernel" from the menu bar
+   2. From the drop down select "Python (name-of-your-venv)"
 
 
 8. Optional: Run in Google Colab
 
     1. Go to Google Colab
-
     2. File → Open notebook → GitHub → paste your repo URL
-
     3. Open and run it in the cloud (no local setup needed)
 
 
@@ -59,14 +64,11 @@
 
 ### Books
 - [Emma][1]
-
 - [Pride And Prejudice][2]
-
 - [Sense And Sensibility][3]
 
 ### Text Rank
 - [Text Summarization with NLP][4]
-
 - [TextRank Algorithm][5]
     
 [1]: https://www.gutenberg.org/ebooks/158 "Emma"
