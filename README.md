@@ -80,6 +80,9 @@
 ### LLMs
 - [ChatGPT Developer Start][8]
 - [Gemini API Reference][9]
+
+### Evaluation
+- [Understanding BLEU and ROUGE][10]
     
 [1]: https://www.gutenberg.org/ebooks/158 "Emma"
 [2]: https://www.gutenberg.org/ebooks/26301 "Pride and Prejudice"
@@ -90,4 +93,5 @@
 [7]: https://thepythoncode.com/article/text-summarization-using-huggingface-transformers-python
 [8]: https://platform.openai.com/docs/quickstart
 [9]: https://ai.google.dev/gemini-api/docs/text-generation
+[10]: https://www.geeksforgeeks.org/nlp/understanding-bleu-and-rouge-score-for-nlp-evaluation/#introduction-to-bleu-and-rouge-scores
 
