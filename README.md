@@ -76,6 +76,10 @@
 
 ### Transformers
 - [Hugging Face Transformers][7]
+
+### LLMs
+- [ChatGPT Developer Start][8]
+- [Gemini API Reference][9]
     
 [1]: https://www.gutenberg.org/ebooks/158 "Emma"
 [2]: https://www.gutenberg.org/ebooks/26301 "Pride and Prejudice"
@@ -84,4 +88,6 @@
 [5]: https://medium.com/@yassineerraji/understanding-textrank-a-deep-dive-into-graph-based-text-summarization-and-keyword-extraction-905d1fb5d266 "TextRank"
 [6]: https://stackabuse.com/text-summarization-with-nltk-in-python
 [7]: https://thepythoncode.com/article/text-summarization-using-huggingface-transformers-python
+[8]: https://platform.openai.com/docs/quickstart
+[9]: https://ai.google.dev/gemini-api/docs/text-generation
 
