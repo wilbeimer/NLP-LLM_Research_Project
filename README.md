@@ -83,6 +83,7 @@
 
 ### Evaluation
 - [Understanding BLEU and ROUGE][10]
+- [BERTScore][11]
     
 [1]: https://www.gutenberg.org/ebooks/158 "Emma"
 [2]: https://www.gutenberg.org/ebooks/26301 "Pride and Prejudice"
@@ -94,4 +95,4 @@
 [8]: https://platform.openai.com/docs/quickstart
 [9]: https://ai.google.dev/gemini-api/docs/text-generation
 [10]: https://www.geeksforgeeks.org/nlp/understanding-bleu-and-rouge-score-for-nlp-evaluation/#introduction-to-bleu-and-rouge-scores
-
+[11]: https://machinetranslate.org/bertscore
